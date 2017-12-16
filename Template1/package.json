@@ -1,0 +1,19 @@
+{
+  "name": "webtemplate",
+  "version": "1.0.0",
+  "description": "This is the first web folder ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "think"
+  },
+  "keywords": [
+    "Understanding",
+    "Web",
+    "Development"
+  ],
+  "author": "Marcus Jetson",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
